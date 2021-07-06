@@ -20,4 +20,4 @@ O usário pode criar uma sala onde ele receberá perguntas de outros usuários. 
   - Opção de reabrir
   - 
 
-## Like da aplicação em PRD - https://letmeask-f7f8c.web.app/
+## Link da aplicação em PRD - https://letmeask-f7f8c.web.app/
